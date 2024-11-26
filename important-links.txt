@@ -1,0 +1,30 @@
+Project Files: Android App Development
+You can access all project files from this link:
+
+https://github.com/OakAcademy/Kotlin-Programming-Course
+https://github.com/OakAcademy/android-app-development-with-kotlin
+
+https://github.com/OakAcademy/math-game-according-to-three-game-activity-with-kotlin
+
+https://github.com/OakAcademy/math-game-with-one-game-activity
+
+https://github.com/OakAcademy/accessing-feature-of-android-device
+
+Flag Quiz App:
+https://github.com/mehmet-ongel/android-kotlin-flag-quiz-with-sqlite
+
+
+Photo Album Application:
+https://github.com/mehmet-ongel/android-kotlin-photo-album-app
+
+
+
+Firebase User Registration App:
+
+https://github.com/OakAcademy/firebase-register-user-app-with-kotlin
+
+
+
+Firebase Quiz Game App:
+
+https://github.com/OakAcademy/quiz-game-app-with-firebase-kotlin
